@@ -11,5 +11,4 @@ Best indicated to use in crontabs.
 
 or install it on your crontab
 
-
-* 7 * * 1-5 /opt/songAlarm.sh /home/media/wakeUp.mp3
+`* 7 * * 1-5 /opt/songAlarm.sh /home/media/wakeUp.mp3`
